@@ -1,0 +1,21 @@
+
+
+
+
+.main{
+  width:100%
+}
+
+.yo{
+  font-size: 30px;
+  width: 30%;
+  color: red;
+  margin: auto;
+}
+.yo button{
+  height: 60px;
+  width:100px;
+  margin-left: 10px;
+  font-size: 20px;
+  border-radius: 5px;
+}
